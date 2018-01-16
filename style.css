@@ -1,0 +1,96 @@
+BODY { 	background-image: url("./Abstracte-patroon-achtergronden-patroon-wallpapers-afbeeldingen-22.jpg"); 
+	background-attachment: fixed; }
+h1   { 	text-align: center;
+	color: #FFFFFF; 
+	font-size: 80px; 
+	background-image: url("./2017-04-04 15.27.02.jpg") ;
+	font-family: fantasy;
+   }
+h2   { 	text-align: center;
+	text-decoration: underline;
+	color: #FFFFFF; 
+	font-size: 40px; 
+	font-family: sans-serif;
+   }
+h3   { 	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+	color: #000000; 
+	text-indent: 20px;
+	background-color: #33CC99; 
+	font-size: 30px; 
+	font-family: monospace;
+	text-align: left;
+   }
+h4   { 	margin-left: 10px;
+	margin-right: 10px;
+	color: #000000; 
+	font-size: 25px; 
+	background-color: #CC33FF; 
+	text-indent: 20px;
+	font-family: monospace;
+   }
+h41   { 	color: #000000; 
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 25px; 
+	background-color: #CC33FF; 
+	text-indent: 20px;
+	font-family: monospace;
+	width: 460px;
+   }
+h5   { 	margin-left: 10px;
+	margin-right: 10px;
+	color: #000000; 
+	font-size: 20px; 
+	background-color: #FA5882; 
+	text-indent: 20px;
+	font-family: monospace;
+   }
+p    { 	margin-left: 10px;
+	margin-right: 10px;
+	color: #FFFFFF; 
+	font-size: 20px;
+	font-family: sans-serif;
+	text-indent: 20px;
+	}
+d    {	font-size: 20px;
+	margin-right: 20px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	background-color: #000000; 
+	font-family: fantasy;
+	text-indent: 20px;
+   }
+a    { 	margin-left: 10px;
+	font-size: 20px;
+	color: #000000; 
+	font-family: sans-serif;
+   }
+a:hover      { 	font-weight: bold;
+					font-family: sans-serif;
+   }
+h6   { 	height: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #000000;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	color: #FFFFFF; 
+	font-size: 20px; 
+	font-family: monospace;
+   }
+ul     { 	margin-left: 200px;
+	margin-right: 200px;
+	color: #000000;
+	background-image: url("https://afbeeldingen.files.wordpress.com/2016/06/achtergrond-waterverfkleuren.jpg");
+	text-align: center;
+	font-size: 25px;
+	font-family: monospace;
+   }
+ol     {	color: #FFFFFF;
+	font-size: 20px;
+	margin-left: 210px;
+	font-family; sans-serif;
+   }
